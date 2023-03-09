@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Andy Dorokhin from Ukraine
+- 👋 Hi, I’m Andy from Ukraine
 - 👀 interested in Java / Python / SQL / Data Science
-- 📫 reach me at andy.dorokhin@gmail.com
 
 <!---
 AndyDorokhin/AndyDorokhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
