@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Andy from Ukraine
 - 👀 interested in Python / AI / Data Science
 
 <!---
